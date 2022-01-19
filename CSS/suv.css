@@ -1,0 +1,18 @@
+body{
+  background-color: #FAEEE7;
+  margin: 50px auto 200px auto;
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+p{
+  text-align: center;
+  width: 50%;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  margin: 0 200px 0 20px;
+
+}
+img{
+  margin: 0 500px 20px 20px;
+float: right;
+  width: 50%;
+
+}

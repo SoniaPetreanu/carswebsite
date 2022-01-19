@@ -1,0 +1,131 @@
+body{
+  background-color: #FAEEE7;
+  text-align: center;
+  margin: 100px 300px 300px 300px;
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+div{
+  text-align: left;
+}
+p{
+  margin: 0 20px 50px 20px;
+}
+
+a{
+  text-decoration: none;
+  margin: 0 auto 0 20px;
+}
+h1{
+  width: 20%;
+  margin: 20px 20px 20px 20px;
+  text-align: left;
+  color: white;
+}
+.sedans{
+background-color: #FF8E00;
+  position: absolute;
+  width: 300px;
+  height: 500px;
+  color: #F3F0D7;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+.suvs{
+  background-color: #3E8E7E;
+  position: absolute;
+  width: 300px;
+  height: 500px;
+  left:600px;
+  color: #F3F0D7;
+}
+.luxury{
+  background-color: #105652;
+  position: absolute;
+  width: 300px;
+  height: 500px;
+  left:900px;
+  color: #F3F0D7;
+  border-top-right-radius:  25px;
+  border-bottom-right-radius: 25px;
+}
+
+
+.sedan-img{
+  padding-top: 50px;
+  margin: 20px 20px 10px 0;
+  padding-left: 20px;
+
+}
+.suv-img{
+  padding-top: 50px;
+  margin: 20px 20px 10px 0;
+  padding-left: 20px;
+
+}
+
+.lux-img{padding-top: 50px;
+margin: 20px 20px 10px 0;
+padding-left: 20px;
+}
+
+.btn-sedan {
+  background: #F3F0D7;
+  background-image: -webkit-linear-gradient(top, #F3F0D7, #F3F0D7);
+  background-image: -moz-linear-gradient(top, #F3F0D7, #F3F0D7);
+  background-image: -ms-linear-gradient(top, #F3F0D7, #F3F0D7);
+  background-image: -o-linear-gradient(top, #F3F0D7, #F3F0D7);
+  background-image: linear-gradient(to bottom, #F3F0D7, #F3F0D7);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.btn-sedan:hover {
+  background: #FF8E00;
+  background-image: -webkit-linear-gradient(top, #FF8E00, #FF8E00);
+  background-image: -moz-linear-gradient(top, #FF8E00, #FF8E00);
+  background-image: -ms-linear-gradient(top, #FF8E00, #FF8E00);
+  background-image: -o-linear-gradient(top, #FF8E00, #FF8E00);
+  background-image: linear-gradient(to bottom, #FF8E00, #FF8E00);
+  text-decoration: none;
+}
+
+.btn-suv {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  color: #ffffff;
+  font-size: 20px;
+  background:  #F3F0D7;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.btn-suv:hover {
+  background: #3E8E7E;
+  text-decoration: none;
+}
+
+.btn-lux {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  color: #ffffff;
+  font-size: 20px;
+  background:  #F3F0D7;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.btn-lux:hover {
+  background:  #105652;
+  text-decoration: none;
+}
